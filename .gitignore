@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/.dart_tool/
+**/build/
+**/coverage/
+.env
+.env.*
+!.env.example
+apps/api/appsettings.Development.json
